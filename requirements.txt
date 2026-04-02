@@ -1,0 +1,12 @@
+flask==3.0.3
+waitress==3.0.0
+torch
+torchvision
+numpy
+pillow
+matplotlib
+python-dotenv
+pytest
+datasets
+opencv-python
+git+https://github.com/facebookresearch/segment-anything.git

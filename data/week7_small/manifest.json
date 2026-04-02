@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "image": "00000.png",
+    "mask": "00000.png",
+    "label_boxes": 10,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 1,
+    "image": "00001.png",
+    "mask": "00001.png",
+    "label_boxes": 18,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 2,
+    "image": "00002.png",
+    "mask": "00002.png",
+    "label_boxes": 4,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 3,
+    "image": "00003.png",
+    "mask": "00003.png",
+    "label_boxes": 0,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 4,
+    "image": "00004.png",
+    "mask": "00004.png",
+    "label_boxes": 1,
+    "sam_matches": 1,
+    "best_iou": 0.5075461151481274
+  },
+  {
+    "index": 5,
+    "image": "00005.png",
+    "mask": "00005.png",
+    "label_boxes": 0,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 6,
+    "image": "00006.png",
+    "mask": "00006.png",
+    "label_boxes": 5,
+    "sam_matches": 1,
+    "best_iou": 0.3652079648542249
+  },
+  {
+    "index": 7,
+    "image": "00007.png",
+    "mask": "00007.png",
+    "label_boxes": 8,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 8,
+    "image": "00008.png",
+    "mask": "00008.png",
+    "label_boxes": 10,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 9,
+    "image": "00009.png",
+    "mask": "00009.png",
+    "label_boxes": 4,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 10,
+    "image": "00010.png",
+    "mask": "00010.png",
+    "label_boxes": 13,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 11,
+    "image": "00011.png",
+    "mask": "00011.png",
+    "label_boxes": 3,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 12,
+    "image": "00012.png",
+    "mask": "00012.png",
+    "label_boxes": 7,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 13,
+    "image": "00013.png",
+    "mask": "00013.png",
+    "label_boxes": 1,
+    "sam_matches": 1,
+    "best_iou": 0.8149275538779983
+  },
+  {
+    "index": 14,
+    "image": "00014.png",
+    "mask": "00014.png",
+    "label_boxes": 19,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 15,
+    "image": "00015.png",
+    "mask": "00015.png",
+    "label_boxes": 11,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 16,
+    "image": "00016.png",
+    "mask": "00016.png",
+    "label_boxes": 28,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 17,
+    "image": "00017.png",
+    "mask": "00017.png",
+    "label_boxes": 0,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 18,
+    "image": "00018.png",
+    "mask": "00018.png",
+    "label_boxes": 0,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  },
+  {
+    "index": 19,
+    "image": "00019.png",
+    "mask": "00019.png",
+    "label_boxes": 5,
+    "sam_matches": 0,
+    "best_iou": 0.0
+  }
+]
