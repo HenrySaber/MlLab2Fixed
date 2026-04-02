@@ -6,6 +6,11 @@ ENV PYTHONUNBUFFERED=1
 
 WORKDIR /app
 
+# Needed for pip dependencies installed directly from Git repositories
+RUN apt-get update \
+	&& apt-get install -y --no-install-recommends git \
+	&& rm -rf /var/lib/apt/lists/*
+
 # Install dependencies first (better caching)
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
